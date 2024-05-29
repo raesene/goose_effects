@@ -15,4 +15,4 @@ tte -i base_goose.txt decrypt --typing-speed 5 --final-gradient-stops 326CE5
 
 Then run `asciinema rec` to create the cast. Then run `agg` to convert to a GIF
 
-![](https://github.com/raesene/goose_effects/crypto_goose.gif)
+![](crypto_goose.gif)
